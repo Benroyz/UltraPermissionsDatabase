@@ -3732,3 +3732,14 @@ ItemFrameShops+ifs.command.removeshopinselection+Removes every shop in your Worl
 ItemFrameShops+ ifs.command.recalcshopsinselection+Recalculates prices for every shop in your WorldEdit selection.
 ItemFrameShops+ifs.command.sellall+Sells your entire inventory at IFS calculated prices.
 ItemFrameShops+ifs.command.sellhand+Sells the item in your hand using a price calculated by IFS.
+SkyBlockEarth+skyblock.*+Gives all permission noted
+SkyBlockEarth+skyblock.current+Permission to see what Island a player is at.
+SkyBlockEarth+skyblock.admin.*Gives all admin permission notes.
+SkyBlockEarth+skyblock.admin.delete
+SkyBlockEarth+skyblock.admin.owner
+SkyBlockEarth+skyblock.admin.reload
+SkyBlockEarth+skyblock.admin.setspawn
+SkyBlockEarth+skyblock.admin.structure.*
+SkyBlockEarth+skyblock.admin.structure.selection
+SkyBlockEarth+skyblock.admin.structure.tool
+SkyBlockEarth+skyblock.admin.structure.save
