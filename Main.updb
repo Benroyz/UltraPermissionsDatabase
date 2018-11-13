@@ -3734,12 +3734,12 @@ ItemFrameShops+ifs.command.sellall+Sells your entire inventory at IFS calculated
 ItemFrameShops+ifs.command.sellhand+Sells the item in your hand using a price calculated by IFS.
 SkyBlockEarth+skyblock.*+Gives all permission noted
 SkyBlockEarth+skyblock.current+Permission to see what Island a player is at.
-SkyBlockEarth+skyblock.admin.*Gives all admin permission notes.
-SkyBlockEarth+skyblock.admin.delete
-SkyBlockEarth+skyblock.admin.owner
-SkyBlockEarth+skyblock.admin.reload
-SkyBlockEarth+skyblock.admin.setspawn
-SkyBlockEarth+skyblock.admin.structure.*
-SkyBlockEarth+skyblock.admin.structure.selection
-SkyBlockEarth+skyblock.admin.structure.tool
-SkyBlockEarth+skyblock.admin.structure.save
+SkyBlockEarth+skyblock.admin.*+Gives all admin permission notes.
+SkyBlockEarth+skyblock.admin.delete+Permission to delete a player's Island
+SkyBlockEarth+skyblock.admin.owner+Permission to get the Island owner of a player's Island.
+SkyBlockEarth+skyblock.admin.reload+Permission to reload all loaded configuration files.
+SkyBlockEarth+skyblock.admin.setspawn+Permission to set the main spawn point.
+SkyBlockEarth+skyblock.admin.structure.*+Gives all structure permission notes.
+SkyBlockEarth+skyblock.admin.structure.selection+Permission to use the structure tool.
+SkyBlockEarth+skyblock.admin.structure.tool+Permission to get the structure tool.
+SkyBlockEarth+skyblock.admin.structure.save+Permission to save a selected structure.
